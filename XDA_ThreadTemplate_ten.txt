@@ -1,0 +1,40 @@
+TITLE: [ROM] [OFFICIAL] [10.0] [codename] aosp-forking
+
+[CENTER]
+[SIZE="5"][b][color=#1a73e8]aosp-forking for DEVICENAME [CODENAME][/color][/b][/SIZE]
+
+[img]https://i.imgur.com/vkMdEJ6.jpg[/img]
+
+[SIZE="4"][b][color=#1a73e8]Project Proposals[/color][/b][/SIZE]
+[SIZE="3"]This is an AOSP/LOS based fork with OpenGApps included. 99% of ROMs use it as a base on LineageOS - but they don't admit it. My personal goal in this project, was to use an AOSP base, but with all the improvements and compatibility with several devices that LOS has. Removing native apps, wallpapers, etc... and adding OpenGApps, keeping all Google apps 100% updated with each new build.
+
+A ROM with AOSP appearance, based on AOSP/LineageOS, with a lot of quality and stability.[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wifi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FMRadio
+Fingerprint reader
+NFC
+Lights
+Sound/vibration[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="3"][B]DON'T FLASH GAPPS, OPENGAPPS INCLUDED[/B][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
+[SIZE="3"][url="https://bit.ly/mamutal91-paypal"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
+
+[LEFT][SIZE="3"][list]
+[*][b]Source code:[/b] [url=https://github.com/aosp-forking]https://github.com/aosp-forking[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=8414586]mamutal91[/url]
+[/list][/SIZE][/LEFT]
