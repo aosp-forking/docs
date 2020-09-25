@@ -1,0 +1,40 @@
+TITLE: [ROM][11.0][DEVICE] AOSPK - The Kraken Project [2020/12/12]
+
+[img]https://raw.githubusercontent.com/AOSPK/docs/master/assets/banner.png[/img]
+
+[CENTER]
+[size=5][b][color=#1a73e8]Project Proposals[/color][/b][/size]
+based on AOSP with improvements from many other projects! GApps included! The proposal is to provide the best experience in using a low Android with only basic customizations. Focused on battery stability and fluidity.
+
+[size=5][b][color=#1a73e8]Whats working?[/color][/b][/size]
+Wifi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FMRadio
+Fingerprint reader
+NFC
+Lights
+Sound/vibration
+
+[size=5][b][color=#1a73e8]Known issues[/color][/b][/size]
+Nothing yet
+You tell me
+
+[size=5][B]DON'T FLASH GAPPS,  ALREADY INCLUDED[/B][/size]
+
+[size=5][b][color=#1a73e8]Donate[/color][/b][/size]
+[url="https://bit.ly/mamutal91-paypal"][b][color=#1a73e8][u]Liked my work? Give me a coffe[/u][/color][/b][/url]
+
+[size=7][url="http://aospk.com/"][b][color=#1a73e8][u]D O W N L O A D[/u][/color][/b][/url][/size]
+[/CENTER]
+
+[LEFT][list]
+[*][b]Source code:[/b] [url=https://github.com/AOSPK]https://github.com/AOSPK[/url]
+[*][B]Kernel Source:[/B] [url]YOU_LINK_KERNEL[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=8414586]mamutal91[/url]
+[/list][/LEFT]
