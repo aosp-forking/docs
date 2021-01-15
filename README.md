@@ -18,7 +18,7 @@ Before you open a pull request to add your device into our list of official devi
 2. - The maintainers should test every update before upload in our OTA.
 3. - The maintainers must keep the authorship of Git commits on everything that they'll make a change, even it's your device tree, kernel or ROM sources. Lots of git commit --amend and force-pushes are acceptable.
 4. - Relationships fights can be done in PM on Telegram or XDA.
-5. - The maintainers also need to add 'export KRAKEN_BUILD_TYPE=OFFICIAL' in their build environment so OTA app will be included.
+5. - The maintainers also need to add **export CUSTOM_BUILD_TYPE=OFFICIAL** in their build environment so OTA app will be included.
 
 ### Hosting
 Our files are hosted on the SourceForge server, you will receive the credentials when you join the team.
@@ -30,7 +30,7 @@ The changelog file name must match the **.zip** file name and should end with **
 Eg: **.zip** is **AOSPK-11-20200101-0000-beryllium.zip**, changelog file name should be **AOSPK-11-20200101-0000-beryllium.txt**
 
 ### 5. Over-the-air (OTA) updates
-Our system is automatic, you should not worry about updating some script, just upload the new build to the FTP server and send a pull request with the changelog and also edit your device JSON file (**builds/your_device_codename.json**) in this repository.
+Our system is automatic, you should not worry about updating some script, just upload the new build to the FTP server and send a pull request with the changelog and also edit your device JSON file (**builds/device_codename.json**) in this repository.
 
 Eg: Poco F1 is called **beryllium**, so the device JSON file is **builds/beryllium.json**
 
