@@ -1,4 +1,4 @@
-TITLE: [ROM][11.0][DEVICE] AOSPK - The Kraken Project [2020/12/12]
+[ROM][11.0][DEVICE] AOSPK - The Kraken Project [2020/12/12]
 
 [img]https://raw.githubusercontent.com/AOSPK/docs/master/assets/banner.png[/img]
 
@@ -30,7 +30,7 @@ You tell me
 [size=5][b][color=#1a73e8]Donate[/color][/b][/size]
 [url="https://bit.ly/mamutal91-paypal"][b][color=#1a73e8][u]Liked my work? Give me a coffe[/u][/color][/b][/url]
 
-[size=7][url="http://aospk.com/"][b][color=#1a73e8][u]D O W N L O A D[/u][/color][/b][/url][/size]
+[size=7][url="http://aospk.org/"][b][color=#1a73e8][u]D O W N L O A D[/u][/color][/b][/url][/size]
 [/CENTER]
 
 [LEFT][list]
