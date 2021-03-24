@@ -3,7 +3,7 @@ Features (Settings)
 * Battery
     * Battery light
       - Pulse if battery low
-    * Batteru saver and perfomance
+    * Battery saver and perfomance
       - Extreme power saver
 
 * Display
