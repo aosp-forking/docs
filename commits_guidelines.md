@@ -12,10 +12,10 @@ Exceptions **SHOULD** be made by contacting the administration team.
 
 - The commit **MUST** have proper authorship.
 
-- If a commit is for the ROM side, the same **MUST** be pushed to [Gerrit](https://gerrit.pixelexperience.org).
+- If a commit is for the ROM side, the same **MUST** be pushed to [Gerrit](https://gerrit.aospk.org).
 
 - The commit's content **MUST** be as minimal and polished as possible.
 
-- The commit **MUST** be in accordance with the items, if applicable, stated at our [Maintainers Code of Conduct](https://github.com/PixelExperience/docs/blob/master/maintainers_code_of_conduct.md).
+- The commit **MUST** be in accordance with the items, if applicable, stated at our [Maintainers Code of Conduct](https://github.com/AOSPK/docs/blob/master/maintainers_code_of_conduct.md).
 
 - For revert commits, the same **SHOULD** contain reason for revert point - if possible at all. As stated previously, any extra bit of documentation in the commit's message is welcome.

@@ -8,7 +8,7 @@ The maintainers:
 
 - **MUST** upload:
 
-  - All theirs device sources on [PixelExperience-Devices](https://github.com/PixelExperience-Devices) organization. It goes without saying that these should be fully buildable. Using external repos for build releases aren't allowed, unless they're from LineageOS/TheMuppets organization(s). Exceptions may be open if only it's absolutely necessary.
+  - All theirs device sources on [AOSPK-Devices](https://github.com/AOSPK-Devices) organization. It goes without saying that these should be fully buildable. Using external repos for build releases aren't allowed, unless they're from LineageOS/TheMuppets organization(s). Exceptions may be open if only it's absolutely necessary.
 
   - Changelogs for each build. These MUST be user-friendly, simplifying the changes for the average user who aren't aware of things like Safetynet or color calibration, but would like to know what has changed since the last update. 
 
@@ -38,13 +38,13 @@ The maintainers:
 
 - **MUST NOT** enable the Always On Display in case the device has a LCD panel.
 
-- **MUST**, for kernels, follow our [Kernel Guidelines](https://github.com/PixelExperience/docs/blob/master/kernel_guidelines.md).
+- **MUST**, for kernels, follow our [Kernel Guidelines](https://github.com/AOSPK/docs/blob/master/kernel_guidelines.md).
 
 - About Magisk, the maintainers **MUST NOT**:
 
   - Do any heavy software modification that may lead to Magisk working properly. If possible, recommend to users to stop using Magisk if it's not working properly.
 
-  - Do any modifications that may lead to Magisk not work, as per the [Kernel Guidelines](https://github.com/PixelExperience/docs/blob/master/kernel_guidelines.md).
+  - Do any modifications that may lead to Magisk not work, as per the [Kernel Guidelines](https://github.com/AOSPK/docs/blob/master/kernel_guidelines.md).
 
 - If you're a maintainer of an A/B partition or a dynamic partition device, you **MUST NOT** ship TWRP prebuilt. Instead, the maintainer **MUST** ship the AOSP Recovery made available by us.
 
@@ -60,7 +60,7 @@ The maintainers:
 
 - About Translations, the maintainers **MUST**:
 
-  - Move all required strings for any custom packages for device (XiaomiParts, OnePlus Settings, Doze) in [devicesettings-custom](https://github.com/PixelExperience/packages_resources_devicesettings-custom) repository.
+  - Move all required strings for any custom packages for device (XiaomiParts, OnePlus Settings, Doze) in [devicesettings-custom](https://github.com/AOSPK/packages_resources_devicesettings-custom) repository.
 
 - About Sepolicy Rules, the maintainers **MUST NOT**:
 

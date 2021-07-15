@@ -1,4 +1,4 @@
-# To become a maintainer of PixelExperience:
+# To become a maintainer of Kraken:
 
 Before you apply to add your device into our list of official devices, you should know a few things:
 
@@ -14,6 +14,6 @@ Before you apply to add your device into our list of official devices, you shoul
 
 5 - You must show the **real** device sources being used.
 
-6 - Your device must be in accordance with the [Device Requirements](https://github.com/PixelExperience/docs/blob/master/device_requirements.md)
+6 - Your device must be in accordance with the [Device Requirements](https://github.com/AOSPK/docs/blob/master/device_requirements.md)
 
-After applying and once your application is acknowledged, you will receive an email from a member of the recruitment committee regarding the acceptance or rejection of the application. 
+After applying and once your application is acknowledged, you will receive an email from a member of the recruitment committee regarding the acceptance or rejection of the application.
